@@ -1,4 +1,5 @@
 # 📋 Kanban Board - Task Management App 
+![Kanban-Board](https://github.com/user-attachments/assets/5f8bc794-5bc5-4218-93df-28956abbe3e7)
 
 ## 📌 Overview
 A modern Kanban Board application inspired by tools like Trello, allowing users to manage tasks across different stages (To Do, In Progress, Done) with a dynamic and interactive UI.
@@ -34,6 +35,10 @@ A modern Kanban Board application inspired by tools like Trello, allowing users 
 - Drag & drop implementation
 - State management for dynamic UI
 - Designing productivity tools
+
+---
+## 🔗 Live Demo  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://taskzen-app.netlify.app/)
 
 ---
 
